@@ -1,0 +1,8 @@
+﻿Nominal Capacitance,Tolerance,Tolerance %,LSL,USL
+10 pF,±5%,5%,9.50 pF,10.50 pF
+22 pF,±5%,5%,20.90 pF,23.10 pF
+47 pF,±5%,5%,44.65 pF,49.35 pF
+100 pF,±10%,10%,90.00 pF,110.00 pF
+220 pF,±10%,10%,198.00 pF,242.00 pF
+470 pF,±10%,10%,423.00 pF,517.00 pF
+1000 pF,±20%,20%,800.00 pF,1200.00 pF

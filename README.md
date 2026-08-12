@@ -105,6 +105,7 @@ This project presents an end-to-end analysis of MLCC manufacturing process data 
 <p align="center">
   <img src="Graph/Data Validation.png" width="700">
 </p>
+
 ---
 
 ## 6. Dashboard & Statistical Analysis
